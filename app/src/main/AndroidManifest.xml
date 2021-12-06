@@ -9,7 +9,8 @@
         android:roundIcon="@drawable/kcal"
         android:supportsRtl="true"
         android:theme="@style/Theme.Imc">
-        <activity android:name=".ui.PesagemActivity"></activity>
+        <activity android:name=".ui.HistoricoActivity"></activity>
+        <activity android:name=".ui.PesagemActivity" />
         <activity android:name=".ui.DashBoardActivity" />
         <activity android:name=".ui.NovoUsuarioActivity" />
         <activity android:name=".ProfileActivity" />
